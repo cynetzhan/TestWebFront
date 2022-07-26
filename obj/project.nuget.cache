@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QqchAH6sdhDq+ehatITXOe+9Wlihi1jzIdUUXo9CHCVuMo2K8Mbe6aj/00h0T7Cu0HMxTaLkBL5jA5PFdFGoZA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\chvrl\\Project\\TestWebFront\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chvrl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\chvrl\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chvrl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\chvrl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\chvrl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
